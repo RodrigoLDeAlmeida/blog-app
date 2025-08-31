@@ -1,3 +1,7 @@
+# Blog App
+
+Aplicação web para CRUD de texto e imagem com login.
+
 ## 🛠 Tecnologias Utilizadas
 
 Este projeto utiliza um conjunto robusto e moderno de tecnologias para construir um blog full-stack completo, conforme apresentado no tutorial do Lama Dev:
